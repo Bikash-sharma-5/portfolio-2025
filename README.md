@@ -26,7 +26,7 @@ Performance Optimized: Fast-loading and efficient code.</p>
 <p>
   bash<br>
 Copy code<br>
-git clone https://github.com/Bikash-sharma-5/your-portfolio.git<br>
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git<br>
 Navigate to the project directory:<br>
 
 bash<br>
@@ -44,8 +44,8 @@ Or simply drag and drop index.html into your browser window.<br>
 
 <p>
   📬 Contact<br>
-Your Name<br>
-Portfolio: https://bikash-sharma-5.github.io/portfolio-2025/br>
+Bikash sharma<br>
+Portfolio: https://bikash-sharma-5.github.io/portfolio-2025/<br>
 Email: bikashsharma5151@gmail.com<br>
 
 

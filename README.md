@@ -26,7 +26,7 @@ Performance Optimized: Fast-loading and efficient code.</p>
 <p>
   bash<br>
 Copy code<br>
-git clone https://github.com/your-username/your-portfolio.git<br>
+git clone https://github.com/Bikash-sharma-5/your-portfolio.git<br>
 Navigate to the project directory:<br>
 
 bash<br>

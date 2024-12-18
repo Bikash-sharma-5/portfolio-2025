@@ -3,7 +3,7 @@ Interactive Portfolio Website
 Welcome to my Interactive Portfolio Website! This project showcases my work, skills, and creativity, brought to life with smooth animations using GSAP (GreenSock Animation Platform). Built with HTML, CSS, and JavaScript, this portfolio is designed to engage visitors with a seamless and dynamic user experience.
 
 🚀 Live Demo
-Check out the live demo here: Portfolio Demo (Update this link with your live deployment URL)
+Check out the live demo here: https://bikash-sharma-5.github.io/portfolio-2025/
 
 
 🌟 Features
@@ -45,7 +45,7 @@ Or simply drag and drop index.html into your browser window.<br>
 <p>
   📬 Contact<br>
 Your Name<br>
-Portfolio: Your Website<br>
+Portfolio: https://bikash-sharma-5.github.io/portfolio-2025/br>
 Email: bikashsharma5151@gmail.com<br>
 
 
